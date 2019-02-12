@@ -1,5 +1,5 @@
 Master Text Here
 Child of master here
-Child master another comit 1
-3
-4
+Child1 of child of master here
+another commit in child master 1
+child1 child master
